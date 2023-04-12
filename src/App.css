@@ -1,0 +1,49 @@
+.nav-image{
+  width: 50px;
+  margin-left: 25px;
+}
+.nav-div{
+  display: flex;
+  align-items: center;
+  background-color: blueviolet;
+  color: white;
+}
+.nav-title{
+   margin-left: 10px;
+}
+.nav-react{
+  margin-left: auto;
+  margin-right: 85px;
+  font-size: large;
+}
+.meme-main{
+   display: flex;
+   flex-direction: column;
+   align-items:center ;
+}
+.meme-input-div{
+  display: flex;
+  flex-direction:row;
+}
+.meme-input{
+  margin: 15px;
+  width: 300px;
+  height: 30px;
+  border-radius: 10px;
+}
+.meme-button{
+   width: 660px;
+   height:35px;
+   background-color: blue;
+   color: white;
+   border-radius: 10px;
+   font-size: large;
+   font-weight: 900;
+   margin-bottom: 35px;
+}
+
+ .meme-image{
+  width: 500px;
+  height:500px;
+  
+}
